@@ -1,0 +1,82 @@
+body {
+	margin: 0px;
+	padding: 0px;	
+}
+
+h1 {
+	margin-top: 21px;
+	margin-bottom: 21px;	
+}
+
+#container {
+	text-align: center;
+	width: 600px;
+	margin: 0 auto;	
+	padding: 0px;
+}
+
+.pagenav {
+	margin: 35px 5px 20px 5px;
+	text-align: left;
+}
+
+.entry {
+	width: 600px;
+	margin-bottom: 20px;
+}
+
+.entrydata {
+	width: 600px;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 0px 3px 0px;
+}
+.entrytext {
+	width: 600px;
+	text-align: left;
+	margin: 1px 0px 0px 0px;
+	padding: 15px 0px 15px 0px;
+	
+}
+
+.entrytext p {
+	margin: 0px 7px 0px 7px;
+	padding: 0px;
+}
+
+.privmsg {
+	font-style: italic;
+}
+
+.entrydata p {
+	margin: 0px 0px 1px 7px;
+	padding: 0px;
+}
+
+.entrydata table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.entrynr {
+	float: right;
+	margin-right: 0px;
+	padding-right: 7px;
+}
+
+.entrydata .alignright {
+	text-align: right;
+}
+.entrydata td {
+	margin: 0px;
+	padding: 0px 5px 0px 0px;
+}
+
+#footer {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}

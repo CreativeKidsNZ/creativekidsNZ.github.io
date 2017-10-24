@@ -1,0 +1,122 @@
+eth0      Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.34.89  Bcast:202.191.34.95  Mask:255.255.255.240
+          inet6 addr: fe80::fc31:53ff:fe38:5ecc/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1167395206 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:729762391 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:793174882069 (738.7 GiB)  TX bytes:1237019533349 (1.1 TiB)
+
+eth0:1    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.34.90  Bcast:202.191.34.95  Mask:255.255.255.240
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:2    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.101  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:3    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.102  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:4    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.103  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:5    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.104  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:6    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.105  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:7    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.106  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:8    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.107  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:9    Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.108  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:10   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.109  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:11   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.110  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:12   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.111  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:13   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.49.244.23  Bcast:202.49.244.23  Mask:255.255.255.255
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:14   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.49.244.24  Bcast:202.49.244.24  Mask:255.255.255.255
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:15   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.49.244.25  Bcast:202.49.244.25  Mask:255.255.255.255
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:16   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.49.244.26  Bcast:202.49.244.26  Mask:255.255.255.255
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:17   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.49.244.27  Bcast:202.49.244.27  Mask:255.255.255.255
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:18   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.96  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:19   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.97  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:20   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.98  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:21   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.99  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:22   Link encap:Ethernet  HWaddr FE:31:53:38:5E:CC  
+          inet addr:202.191.46.100  Bcast:202.191.46.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1      Link encap:Ethernet  HWaddr BA:3C:66:14:44:2D  
+          inet addr:202.191.46.243  Bcast:202.191.46.255  Mask:255.255.255.0
+          inet6 addr: fe80::b83c:66ff:fe14:442d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:72689608 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:7230 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:10533402177 (9.8 GiB)  TX bytes:442353 (431.9 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:34894067 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:34894067 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:14715716988 (13.7 GiB)  TX bytes:14715716988 (13.7 GiB)
+
+sit0      Link encap:IPv6-in-IPv4  
+          NOARP  MTU:1480  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 b)  TX bytes:0 (0.0 b)
+

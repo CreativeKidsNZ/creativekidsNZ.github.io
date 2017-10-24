@@ -1,0 +1,3 @@
+Disk quotas for user pault7 (uid 2141): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/sda1   15908   20480   20480             509       0       0        

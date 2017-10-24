@@ -1,0 +1,4 @@
+AuthUserFile /web/creativekids.co.nz/.htpasswd
+AuthName "Audios - Restricted Access"
+AuthType Basic
+Require valid-user
